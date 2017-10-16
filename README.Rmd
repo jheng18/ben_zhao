@@ -6,10 +6,10 @@ output:
     self_contained: no
     keep_md: true
 ---
-
+odsjafksjfkdsfjsdffsd
 ```{r, echo=FALSE}
 library(stringr)
-
+dddddd
 date <- "10/12/2017"
 vendor <- "Snail Thai Cuisine"
 title <- "Gender Bias in the Job Market: A Longitudinal Analysis"
